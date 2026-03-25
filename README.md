@@ -1,1 +1,1 @@
-# Print-1-to-N
+Print 1 to N by using this code.
